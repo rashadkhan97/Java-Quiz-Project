@@ -18,7 +18,7 @@ This project provides a role-based experience for managing and participating in 
 - **Result Evaluation**:
   - After completing the quiz, the system evaluates the answers.
   - Displays the result based on the number of correct answers.
-  - Scores Are :
+  - **Scores Are :**
     - 8-10 marks: Excellent!
     - 6-7 marks: Good.
     - 3-5 marks: Very poor.
