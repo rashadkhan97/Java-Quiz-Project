@@ -1,0 +1,250 @@
+[
+  {
+    "answerkey": "4",
+    "option 3": "Load Testing",
+    "option 4": "Unit Testing",
+    "question": "Which is not part of system testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Sanity Testing"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Decision table testing",
+    "option 4": "Adhoc Testing",
+    "question": "Which is whitebox testing technique?",
+    "option 1": "Equivalent Partitioning",
+    "option 2": "Boundary value testing"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "Minimize coding errors",
+    "option 4": "Automate software testing",
+    "question": "What is the primary goal of Software Quality Assurance (SQA)?",
+    "option 1": "Reduce project cost",
+    "option 2": "Ensure software meets quality standards"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "Test planning",
+    "option 4": "Defect tracking",
+    "question": "Which of the following is NOT a part of SQA activities?",
+    "option 1": "Requirement analysis",
+    "option 2": "Code development"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Verification ensures the product is built correctly, validation ensures the right product is built",
+    "option 4": "There is no difference",
+    "question": "What is the difference between Verification and Validation?",
+    "option 1": "Verification checks \"what,\" validation checks \"why\"",
+    "option 2": "Verification checks \"how,\" validation checks \"when\""
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Code Reviews",
+    "option 4": "System Testing",
+    "question": "Which of the following is a static testing technique?",
+    "option 1": "Unit Testing",
+    "option 2": "Integration Testing"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "Agile Life Cycle",
+    "option 4": "Test Automation Cycle",
+    "question": "What is a defect life cycle also called?",
+    "option 1": "Software Development Life Cycle (SDLC)",
+    "option 2": "Bug Life Cycle"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Boundary Value Analysis",
+    "option 4": "Code Coverage Testing",
+    "question": "Which of these testing techniques is BLACK-box testing?",
+    "option 1": "Unit Testing",
+    "option 2": "Regression Testing"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Project budget",
+    "option 4": "Test schedule",
+    "question": "What does a test plan typically NOT include?",
+    "option 1": "Test objectives",
+    "option 2": "Test environment"
+  },
+  {
+    "answerkey": "1",
+    "option 3": "Prioritizing functional testing over non-functional testing",
+    "option 4": "Outsourcing the testing process",
+    "question": "What does \"shift-left testing\" refer to?",
+    "option 1": "Starting testing earlier in the development lifecycle",
+    "option 2": "Delaying testing to the end of the project"
+  },
+  {
+    "answerkey": "1",
+    "option 3": "Marketing strategy",
+    "option 4": "Code aesthetics",
+    "question": "Which of the following is a measure of software quality?",
+    "option 1": "Maintainability",
+    "option 2": "Development speed"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "Postman",
+    "option 4": "Jenkins",
+    "question": "Which tool is commonly used for defect tracking?",
+    "option 1": "Selenium",
+    "option 2": "Jira"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "To validate system performance",
+    "option 4": "To find boundary defects",
+    "question": "What is the primary purpose of regression testing?",
+    "option 1": "To test new features",
+    "option 2": "To ensure old functionality still works after changes"
+  },
+  {
+    "answerkey": "4",
+    "option 3": "Sanity Testing",
+    "option 4": "Stress Testing",
+    "question": "Which testing ensures that the software works under heavy load conditions?",
+    "option 1": "Load Testing",
+    "option 2": "Integration Testing"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Boundary Testing",
+    "option 4": "Security Testing",
+    "question": "Which of the following is NOT a non-functional testing type?",
+    "option 1": "Performance Testing",
+    "option 2": "Usability Testing"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "Deployment plan",
+    "option 4": "User manual",
+    "question": "What is the main deliverable of the SQA process?",
+    "option 1": "Test cases",
+    "option 2": "Quality metrics and reports"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Integration testing",
+    "option 4": "Smoke testing",
+    "question": "Which of these testing levels focuses on interaction between integrated units?",
+    "option 1": "System testing",
+    "option 2": "Unit testing"
+  },
+  {
+    "answerkey": "1",
+    "option 3": "A test for performance under high load",
+    "option 4": "A security test",
+    "question": "What is a smoke test?",
+    "option 1": "A test to validate build stability",
+    "option 2": "A test for exhaustive functional coverage"
+  },
+  {
+    "answerkey": "4",
+    "option 3": "Product Owner",
+    "option 4": "The entire team",
+    "question": "In agile testing, who is responsible for quality?",
+    "option 1": "QA team",
+    "option 2": "Developers"
+  },
+  {
+    "answerkey": "1",
+    "option 3": "Test Scenario",
+    "option 4": "Test Environment Document",
+    "question": "Which document outlines what needs to be tested and how?",
+    "option 1": "Test Plan",
+    "option 2": "Test Strategy"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Quality management system standards",
+    "option 4": "Test automation tools",
+    "question": "What does ISO 9001 focus on?",
+    "option 1": "Performance testing standards",
+    "option 2": "Security testing standards"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "Automated functional testing",
+    "option 4": "Regression testing",
+    "question": "What is exploratory testing?",
+    "option 1": "Pre-planned testing",
+    "option 2": "Simultaneous learning, test design, and test execution"
+  },
+  {
+    "answerkey": "1",
+    "option 3": "TestComplete",
+    "option 4": "UFT (Unified Functional Testing)",
+    "question": "Which of the following is an open-source test automation tool?",
+    "option 1": "Selenium",
+    "option 2": "LoadRunner"
+  },
+  {
+    "answerkey": "1",
+    "option 3": "Randomly",
+    "option 4": "Based on team preference",
+    "question": "In risk-based testing, how are test cases prioritized?",
+    "option 1": "Based on severity and likelihood of defects",
+    "option 2": "Alphabetically"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "Design phase only",
+    "option 4": "Maintenance phase only",
+    "question": "Which phase of the SDLC does SQA span?",
+    "option 1": "Testing phase only",
+    "option 2": "Entire SDLC"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "Automating manual test cases",
+    "option 4": "Conducting load testing",
+    "question": "What is the role of Test-Driven Development (TDD) in SQA?",
+    "option 1": "Writing test cases after coding",
+    "option 2": "Writing tests before writing code"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "Security Testing",
+    "option 4": "Stress Testing",
+    "question": "Which type of test focuses on ensuring user satisfaction?",
+    "option 1": "Functional Testing",
+    "option 2": "Usability Testing"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "Lower accuracy than manual testing",
+    "option 4": "Inability to execute regression tests",
+    "question": "What is a major disadvantage of automated testing?",
+    "option 1": "Time-consuming test execution",
+    "option 2": "Requires initial setup and maintenance"
+  },
+  {
+    "answerkey": "1",
+    "option 3": "Smoke Testing",
+    "option 4": "Stress Testing",
+    "question": "Which of the following is a type of acceptance testing?",
+    "option 1": "Alpha Testing",
+    "option 2": "Unit Testing"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "Deploying the final build",
+    "option 4": "Automating defect resolution",
+    "question": "What is the purpose of a defect triage meeting?",
+    "option 1": "Fixing the defect immediately",
+    "option 2": "Prioritizing and assigning defects to be resolved"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "BDD",
+    "option 4": "FDD",
+    "question": "Which development approach often translated automatically into executable tests?",
+    "option 1": "ATDD",
+    "option 2": "TDD"
+  }
+]
