@@ -26,3 +26,12 @@ This project provides a role-based experience for managing and participating in 
     - 6-7 marks: Good.
     - 3-5 marks: Very poor.
     - 0-2 marks: Very sorry, you are failed.
+      
+## Prerequisites
+- Basic understanding of Java programming language.
+- Java Development Kit (JDK) installed on your machine.
+- A text editor or IDE (e.g., IntelliJ IDEA, Eclipse, or VS Code).
+
+**Files:**
+- ```users.json```: Contains the login credentials and roles for both admin and students.
+- ```quiz.json```: Stores the questions, options, and answer keys added by the admin.
