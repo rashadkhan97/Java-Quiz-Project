@@ -51,7 +51,7 @@ This project provides a role-based experience for managing and participating in 
 - Once done a message will appear - "Saved successfully! Do you want to add more questions? (press s for start and q for quit)"
 
 ### Student Test:
-- Log in using the credentials from ```users.json``` file where (**username: ```tanjid```, password: ```1234```**).
+- Log in using the credentials from ```users.json``` file where (**username: ```rashad```, password: ```1234```**).
 - Start the quiz by pressing ```'s'``` when prompted.
 - Answer the questions interactively.
 - View the result after completing the quiz.
