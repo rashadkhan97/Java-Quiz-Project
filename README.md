@@ -48,4 +48,7 @@ This project provides a role-based experience for managing and participating in 
 ### Admin Dashboard:
 - Log in using the credentials from ```users.json``` file where - 
   (username: ```admin```, password: ```1234```).
-- Add questions with prompts until admin press key - **q**
+- Add questions with prompts.
+- Once done the message will appear - "Saved successfully! Do you want to add more questions? (press s for start and q for quit)"
+- If Admin press **-->** **s**, adding question continues
+- If Admin press **-->** **q**, Finish
