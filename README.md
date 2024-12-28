@@ -50,9 +50,23 @@ This project provides a role-based experience for managing and participating in 
 - Add questions with prompts.
 - Once done a message will appear - "Saved successfully! Do you want to add more questions? (press s for start and q for quit)"
 
+#### Output Video :
+
+
+https://github.com/user-attachments/assets/0ee19f98-3212-40ba-98fd-7c6b721a86a0
+
+
+
 ### Student Test:
 - Log in using the credentials from ```users.json``` file where (**username: ```rashad```, password: ```1234```**).
 - Start the quiz by pressing ```'s'``` when prompted.
 - Answer the questions interactively.
 - View the result after completing the quiz.
+
+#### Output Video: 
+
+
+
+https://github.com/user-attachments/assets/59936335-8bb7-4342-8ab2-e3db360c6c07
+
 
