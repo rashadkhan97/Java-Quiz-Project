@@ -3,7 +3,6 @@
 ## **Content**
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
-    - [Files](#files)
 - [Features](#Features)
     - [Admin Role](#admin-role)
     - [Student Role](#student-role)
