@@ -1,6 +1,6 @@
 ﻿# QUIZ Management System 
 ## Introduction 
-This project provides a role-based experience for managing and participating in quizzes. It supports two user roles: **Admin** and **Student**, offering tailored functionality to create and take quizzes effectively. The system is implemented using JSON for data storage and ensures an interactive and streamlined experience.
+This project provides a role-based experience for managing and participating in quizzes. It supports two user roles: **Admin** and **Student**, offering tailored functionality to create and take quizzes effectively. The system uses JSON for data storage and ensures an interactive and streamlined experience.
 
 ## Prerequisites
 - Basic understanding of Java programming language.
@@ -24,7 +24,7 @@ This project provides a role-based experience for managing and participating in 
 - **Take Quiz**:
   - The system randomly selects 10 questions from the question bank stored in `quiz.json`.
   - Students answer MCQs interactively.
-  - Once 10 questions done, Again ask if they want to continue quiz until student press 'q' to stop after 10 questions.
+  - Once 10 questions are done, Again ask if they want to continue the quiz until the student presses 'q' to stop after 10 questions.
     
 - **Result Evaluation**:
   - After completing the quiz, the system evaluates the answers.
@@ -49,14 +49,10 @@ This project provides a role-based experience for managing and participating in 
 - Log in using the credentials from ```users.json``` file where (**username: ```admin```, password: ```1234```**).
 - Add questions with prompts.
 - Once done a message will appear - "Saved successfully! Do you want to add more questions? (press s for start and q for quit)"
-- If Admin press **-->** **```s```**, adding question continues.
-- If Admin press **-->** **```q```**, then Finish.
 
 ### Student Test:
 - Log in using the credentials from ```users.json``` file where (**username: ```tanjid```, password: ```1234```**).
 - Start the quiz by pressing ```'s'``` when prompted.
 - Answer the questions interactively.
 - View the result after completing the quiz.
-- A message will appear along with the results - "Would you like to start again? Press 's' for start or 'q' for quit." 
-- If Student press **-->** **```s```**, again the quiz continue.
-- If Student press **-->** **```q```**, then Finish.
+
