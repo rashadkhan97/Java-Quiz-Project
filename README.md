@@ -1,6 +1,20 @@
 ﻿# QUIZ Management System 
+ 
+## **Content**
+- [Introduction](#introduction)
+- [Prerequisites](#prerequisites)
+    - [Files](#files)
+- [Features](#Features)
+    - [Admin Role](#admin-role)
+    - [Student Role](#student-role)
+- [How to run the project](#How-to-run-the-project)
+    - [Admin Dashboard](#admin-dashboard)
+    - [Student Dashboard](#student-dashboard)
+      
 ## Introduction 
 This project provides a role-based experience for managing and participating in quizzes. It supports two user roles: **Admin** and **Student**, offering tailored functionality to create and take quizzes effectively. The system uses JSON for data storage and ensures an interactive and streamlined experience.
+
+
 
 ## Prerequisites
 - Basic understanding of Java programming language.
@@ -57,7 +71,7 @@ https://github.com/user-attachments/assets/0ee19f98-3212-40ba-98fd-7c6b721a86a0
 
 
 
-### Student Test:
+### Student Dashboard:
 - Log in using the credentials from ```users.json``` file where (**username: ```rashad```, password: ```1234```**).
 - Start the quiz by pressing ```'s'``` when prompted.
 - Answer the questions interactively.
