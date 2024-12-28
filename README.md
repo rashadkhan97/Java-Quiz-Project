@@ -46,9 +46,17 @@ This project provides a role-based experience for managing and participating in 
 - Run the program using your preferred IDE or the terminal.
 
 ### Admin Dashboard:
-- Log in using the credentials from ```users.json``` file where - 
-  (username: ```admin```, password: ```1234```).
+- Log in using the credentials from ```users.json``` file where (**username: ```admin```, password: ```1234```**).
 - Add questions with prompts.
-- Once done the message will appear - "Saved successfully! Do you want to add more questions? (press s for start and q for quit)"
-- If Admin press **-->** **s**, adding question continues
-- If Admin press **-->** **q**, Finish
+- Once done a message will appear - "Saved successfully! Do you want to add more questions? (press s for start and q for quit)"
+- If Admin press **-->** **```s```**, adding question continues.
+- If Admin press **-->** **```q```**, then Finish.
+
+### Student Test:
+- Log in using the credentials from ```users.json``` file where (**username: ```tanjid```, password: ```1234```**).
+- Start the quiz by pressing ```'s'``` when prompted.
+- Answer the questions interactively.
+- View the result after completing the quiz.
+- A message will appear along with the results - "Would you like to start again? Press 's' for start or 'q' for quit." 
+- If Student press **-->** **```s```**, again the quiz continue.
+- If Student press **-->** **```q```**, then Finish.
