@@ -2,6 +2,15 @@
 ## Introduction 
 This project provides a role-based experience for managing and participating in quizzes. It supports two user roles: **Admin** and **Student**, offering tailored functionality to create and take quizzes effectively. The system is implemented using JSON for data storage and ensures an interactive and streamlined experience.
 
+## Prerequisites
+- Basic understanding of Java programming language.
+- Java Development Kit (JDK) installed on your machine.
+- A text editor or IDE (e.g., IntelliJ IDEA, Eclipse, or VS Code).
+
+**Files:**
+- ```users.json```: Contains the login credentials and roles for both admin and students.
+- ```quiz.json```: Stores the questions, options, and answer keys added by the admin.
+
 ## Features
 ### Admin Role:
 - **Login**: Admin can log in using their credentials.
@@ -26,12 +35,17 @@ This project provides a role-based experience for managing and participating in 
     - 6-7 marks: Good.
     - 3-5 marks: Very poor.
     - 0-2 marks: Very sorry, you are failed.
-      
-## Prerequisites
-- Basic understanding of Java programming language.
-- Java Development Kit (JDK) installed on your machine.
-- A text editor or IDE (e.g., IntelliJ IDEA, Eclipse, or VS Code).
+ 
+## How to run the project
 
-**Files:**
-- ```users.json```: Contains the login credentials and roles for both admin and students.
-- ```quiz.json```: Stores the questions, options, and answer keys added by the admin.
+- - clone this project
+   ```console
+      https://github.com/rashadkhan97/Java-Quiz-Project.git
+    ``` 
+- Ensure ```users.json``` and ```quiz.json``` are in the same directory as your Java program.
+- Run the program using your preferred IDE or the terminal.
+
+### Admin Dashboard:
+- Log in using the credentials from ```users.json``` file where - 
+  (username: ```admin```, password: ```1234```).
+- Add questions with prompts until admin press key - **q**
